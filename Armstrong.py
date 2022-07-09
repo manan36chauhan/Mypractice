@@ -1,4 +1,4 @@
-i=int(input("Enter number to chech wether it is armstrong number or not:"))
+i=int(input("Enter number to check wether it is armstrong number or not:"))
 orig=i
 sum=0
 
